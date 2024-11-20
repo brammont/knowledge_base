@@ -1,3 +1,18 @@
-body {
-    background-color: red;
+/* Ensure the footer sticks to the bottom */
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1; /* Make the main content area expand to take available space */
+}
+
+footer {
+    background-color: #343a40; /* Dark footer background */
+    color: white; /* Text color */
+    text-align: center;
+    padding: 10px 0;
 }

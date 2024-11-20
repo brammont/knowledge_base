@@ -13,7 +13,7 @@
         <h1>Contact Us</h1>
         <p>If you have questions or need help, please visit:</p>
         <ul>
-            <li><a href="https://www.cite.com.au" target="_blank">CITE</a></li>
+            <li><a href="https://www.citems.com.au/" target="_blank">CITE</a></li>
             <li><a href="https://www.southmetrotafe.wa.edu.au" target="_blank">SMTAFE</a></li>
         </ul>
     </main>
